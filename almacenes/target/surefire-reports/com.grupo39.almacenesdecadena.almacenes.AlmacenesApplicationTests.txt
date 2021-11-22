@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.grupo39.almacenesdecadena.almacenes.AlmacenesApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.904 s - in com.grupo39.almacenesdecadena.almacenes.AlmacenesApplicationTests
